@@ -673,4 +673,520 @@ tounament_box01/*----------------------------------------情報 (終)　css-----
  margin-top: 50px;
  
 }
-.access
+.access{
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+	text-align: center;
+    background-color: rgba( 255, 255, 255, 0.45 );
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 100px;
+}
+.access02{
+	
+	margin: 50px;
+
+}
+.access03{
+	
+
+	
+
+}
+
+
+.googlemap{
+	width: 300px;
+	height: 300px;
+	margin-left: 40px;
+	
+
+	
+}
+
+.access04{
+	text-align:center;
+	padding-top: 100px;
+	
+}
+.pdf01:hover {
+		opacity: 0.5 ;
+	}
+
+/*----------------------------------------入門案内 (終)　css----------------------------------------*/
+
+
+
+
+/*----------------------------------------指導員 (始)　css----------------------------------------*/
+.name{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.slider01{
+	width: 100%;
+	height:auto;
+	margin-top: 30px;
+	
+	
+}
+/*ミニスライダーのcss*/
+/*==================================================
+スライダーのためのcss
+===================================*/
+.slider img {
+    width:100%;/*スライダー内の画像を横幅100%に*/
+    height:auto;
+}
+
+/*slickのJSで書かれるタグ内、スライド左右の余白調整*/
+
+.slider .slick-slide {
+    margin:0 10px;/*スライド左右の余白調整*/
+}
+.slider{
+		margin-top: 80px;
+}
+
+
+
+
+
+
+.col-md-7{
+	text-align: center;
+	
+}
+.The_instructor{
+	margin-top: 50px;
+	width: 100%;
+	height: auto;
+	background-color: #FFFFFF;
+	background-color: rgba( 255, 255, 255, 0.45 );
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+.achievement02{
+    width: 70%;
+	height: 360px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+	font-family:"YuMincho";
+	line-height: 2.0;
+	background-color: rgba( 255, 255, 255, 0.45 );
+}
+.achievement03{
+	width: 350px;
+	
+}
+hr{
+ width: 300px;
+}
+.knowledge01{
+	width: 100%;
+	background-color: #fff;
+	background-color: rgba( 255, 255, 255, 0.45 );
+	text-align: center;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	margin-top: 50px;
+	
+	
+}
+.knowledge02{
+	font-size: 16px;
+
+	
+}
+.map01{
+	width: 100%;
+	height:auto;
+	background-color: #FFFFFF;
+	background-color: rgba( 255, 255, 255, 0.45 );
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.map1-5{
+	margin-bottom: 30px;
+}
+.map06{
+	
+	height: 300px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.map07{
+
+	height: 300px;
+	margin-bottom: 50px;
+	
+	
+}
+.map8{
+	text-align: left;
+	font-size: 15px;
+	font-family:"YuMincho";
+
+}
+.map09{
+	  font-weight: bold;
+	margin-bottom: -50px;
+	font-family:"YuMincho";
+	
+}
+.map10{
+	font-size: 15px;
+	font-family:"YuMincho";
+	text-align: left;
+}
+.hr_map{
+	width: 450px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+.link01{
+	text-decoration:none;
+}
+.link01:hover{
+	opacity: 0.5;
+}
+/*----------------------------------------指導員 (終)　css----------------------------------------*/
+
+
+
+/*----------------------------------------練習日 (始)　css----------------------------------------*/
+.practice_time{
+	width: 100%;
+	height: auto;
+	background-color: #FFFFFF;
+	background-color: rgba( 255, 255, 255, 0.45 );
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.practice_time02{
+　　height: auto;
+	text-align: center;
+	
+}
+.practice_time04{
+	margin-top: 50px;
+}
+.practice_time_font{
+
+	font-size: 20px;
+	
+}
+.practice_time_font02{
+	 margin-top: -30px;
+	font-size: 15px;
+	
+}
+/*練習日 (終)　css*/
+
+
+
+/*大会情報 (始)　css*/
+.tounament001{
+	width: 100%;
+	height: auto;
+	background-color: #FFFFFF;
+	background-color: rgba( 255, 255, 255, 0.45 );
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.tounament002{
+	margin-top: 30px;
+}
+.Tournament_name{
+	font-size: 20px;
+	margin-top: 0px;
+	
+	
+}
+.Tournament_name02{
+	margin-top: -30px;
+	font-size: 15px;
+	
+}
+/*----------------------------------------大会情報 (終)　css----------------------------------------*/
+
+/*----------------------------------------大会結果 (始)　css----------------------------------------*/
+.Tournament_results{
+	width: 100%;
+	height:auto;	
+	background-color: #FFFFFF;
+	background-color: rgba( 255, 255, 255, 0.45 );
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+	
+}
+.Tournament_results02{
+	width: 400px;
+	height:auto;
+	margin-top: 30px;
+
+}
+.Tournament_results03{
+	
+	text-align: center;
+}
+.Tournament_results04{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/*----------------------------------------大会結果 (終)　css----------------------------------------*/
+/*PC用のcss*/
+@media (min-width: 768px) { 
+ .intro03{
+ font-size: 25px;
+ 
+ }
+	
+.his02{
+		font-size: 25px;
+}
+p{
+		font-size: 20px;
+}
+.knowledge02{
+		font-size: 20px;
+}
+.basic_information{
+
+	width: 100%;
+	height: 300px;
+	margin-top: 50px;
+	background-image: url("images/014.png");
+}
+.basic_information02{
+	width: 100%;
+	height: 300px;
+	margin-top: 50px;
+	background-image: url("images/015.png");
+
+}	
+.back{
+height: auto;
+	width: 100%;
+background-image: url("images/fotter_image.png");
+}
+	.intro02{
+	margin-bottom: 30px;
+		font-size: 30px;
+	
+	
+}
+.intro02:before{
+content: "";
+  position: absolute;
+  background: #23ACE1;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  top: 50%;
+  /* border: dashed 1px white; */
+  -webkit-transform: translateY(-50%);
+  transform: translate(-20%,-50%);
+   z-index: -1;
+	
+	
+	
+}
+	.btn01{    
+	margin-top: 10px;
+	padding-top: 0.975rem;
+    padding-right: 15rem;
+    padding-bottom: 0.975rem;
+    padding-left: 15rem;
+	order-radius: 0.25rem;
+	background-color: transparent;
+    border: 1px solid transparent;
+	
+	
+	
+}
+	.practice_time_font{
+
+	font-size: 30px;
+	
+}
+.practice_time_font02{
+	 margin-top: -30px;
+	font-size: 20px;
+	
+}
+	.Tournament_name{
+	font-size: 30px;
+	margin-top: 0px;
+	
+	
+}
+.Tournament_name02{
+	margin-top: -30px;
+	font-size: 20px;
+	
+}
+	.map07{
+
+	height: 300px;
+	margin-bottom: 50px;
+
+		
+	
+}
+	.hr_map{
+	width:300px;
+		text-align: center;
+	
+	
+}
+	.practice{
+	text-align: center;
+}
+	
+	.Tournament_information02{
+	width: 500px;;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url("images/taikaijouhou.png")
+
+}
+.Tournament_information03{
+	width: 500px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image:url("images/taikaikekka.png");
+
+}
+	.Tournament_results04{
+	
+		
+		
+	}
+	.Tournament_results05{
+		width: 300px;
+		height: 200px;
+		background-color: #FF0004;
+		margin-right: auto;
+		margin-left: auto;
+		margin-bottom: 50px;
+		
+	}
+	.tounament_font{
+	font-size: 40px;
+	color: #fff;
+	padding: 5px 0px;
+}
+	.tounament02{
+	width: 300px;
+	height: 60px;
+	background-color: rgba( 0, 0, 0, 0.45 );
+	
+}
+	.googlemap{
+	width: 450px;
+	height: 450px;
+	margin-left: 50px;
+
+
+	
+}
+	.achievement03{
+	width:100%;
+	
+}
+
+}
+
+
+@media (min-width: 576px) { 
+	.basic_information{
+
+	width: 100%;
+	height: 300px;
+	margin-top: 50px;
+	background-image: url("images/014.png");
+}
+.basic_information02{
+	width: 100%;
+	height: 300px;
+	margin-top: 50px;
+	background-image: url("images/015.png");
+
+}	
+.back{
+height: auto;
+width: 100%;
+background-image: url("images/fotter_image.png");
+}
+	
+	.btn01{    
+	margin-top: 10px;
+	padding-top: 0.975rem;
+    padding-right: 10rem;
+    padding-bottom: 0.975rem;
+    padding-left: 10rem;
+	order-radius: 0.25rem;
+	background-color: transparent;
+    border: 1px solid transparent;
+	
+	
+	
+}
+}
+@media (min-width: 1500px) { 
+		.basic_information{
+
+	width: 100%;
+	height: 400px;
+	margin-top: 50px;
+	background-image: url("images/08-2.png");
+}
+	.basic_information02{
+	width: 100%;
+	height: 400px;
+	margin-top: 50px;
+	background-image: url("images/08-3.png");
+
+}	
+	.back{
+height: 220px;
+width: 100%;
+background-image: url("images/res_004.png");
+	}
+}
+	@media (min-width: 1600px) { 
+			.basic_information{
+
+	width: 100%;
+	height: 400px;
+	margin-top: 50px;
+	background-image: url("images/09-2.png");
+	
+	}	
+			.basic_information02{
+	width: 100%;
+	height: 400px;
+	margin-top: 50px;
+	background-image: url("images/09-3.png");
+
+}	
+}
+
+
